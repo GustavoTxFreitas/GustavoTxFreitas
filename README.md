@@ -9,17 +9,16 @@
 Greetings from Gustavo Teixeira, me! I'm passionate about continuous learning and changing lives through programming.
 
 All the time:
-
-:telescope:&emsp;Looking for fun
-
-:dart:&emsp;Ready for challenges
-
+<div>
+:telescope:&emsp;Looking for fun<br>
+:dart:&emsp;Ready for challenges<br>
 :handshake:&emsp;Available to contribute
+</div>
 
 #### I hope we get along very well, contact me! :speech_balloon:
 
 <!-- Some of my hard skills -->
-<p>
+<div>
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="c" />
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />
@@ -32,4 +31,4 @@ All the time:
   <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />
   <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" alt="firebase" />
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-</p>
+</div>
