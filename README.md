@@ -1,8 +1,8 @@
 <!-- Github Stats: showIcons, Deg, Title, Icon, Text, Hide -->
-<img align="right" alt="Github Readme Stats" src="https://github-readme-stats.vercel.app/api?username=GustavoTxFreitas&show_icons=true&bg_color=DEG,0D0A0B,181D27&title_color=DBDBDB&icon_color=454955&text_color=fff&hide=stars,issues"/>
+<img align="right" alt="Github Readme Stats" width="500" src="https://github-readme-stats.vercel.app/api?username=GustavoTxFreitas&show_icons=true&bg_color=DEG,0D0A0B,181D27&title_color=DBDBDB&icon_color=454955&text_color=fff&hide=stars,issues"/>
 
 <!-- Github Stats: Layout, Deg, Title, Text -->
-<img align="right" alt="Github Readme Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=GustavoTxFreitas&layout=compact&bg_color=DEG,0D0A0B,181D27&title_color=DBDBDB&text_color=fff"/>
+<img align="right" alt="Github Readme Top-Langs" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTxFreitas&layout=compact&bg_color=DEG,0D0A0B,181D27&title_color=DBDBDB&text_color=fff"/>
 
 <!-- Introducing me -->
 ### Don't forget this moment, maybe everything's about to change :seedling:
