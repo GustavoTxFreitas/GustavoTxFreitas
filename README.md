@@ -25,7 +25,6 @@ All the time:
   <img src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />
   
   <img src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white" alt="react" />
   <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white" alt="reactnative" />
   <img src="https://img.shields.io/badge/TensorFlow-%2320232a.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" />
 </p>
